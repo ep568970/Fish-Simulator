@@ -1,7 +1,7 @@
 /*
 Description: Programming Task 2, Fish Simulation
 Author: Emily Peng
-Last Edit: August 18, 2026 modified to view on web
+Last Edit: August 18, 2026 modified to be viewed on web
 */
 
 let myWidth=500;
