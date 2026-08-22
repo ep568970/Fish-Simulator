@@ -1,7 +1,7 @@
 /*
 Description: Programming Task 2, Fish Simulation
 Author: Emily Peng
-Last Edit: December 18, 2024
+Last Edit: December 18, 2024 (original code made on OpenProcessing)
 */
  
 //setup function
